@@ -353,6 +353,8 @@ dbb13fe66d831dea6b07779cabf7d64e = {
     "hitler": "c0VX",
     "gasthejews": "c0VX",
     "imissmyex": "niggerboo764",
+    "niggerboo764": "niggerboo764",
+    "niggerboo": "niggerboo764",
 }
 
 # ============================================================
